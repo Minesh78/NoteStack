@@ -5,6 +5,9 @@ Ever have a brilliant idea, write it on a sticky note, and then immediately lose
 
 This project is the digital solution! It's a full-stack Notes Application built with the mighty **MERN** stack (MongoDB, Express.js, React.js, and Node.js). It lets you create, read, update, and delete notes, so your genius ideas are safe.
 
+*  **LIVE DEMO:** https://notes-app-k8ik.vercel.app/login
+* email: testuser@gmail.com
+* password: testuser@123
 
 
 ## ✨ Features (What it Does)
